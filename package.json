@@ -1,0 +1,17 @@
+{
+  "name": "carlo",
+  "version": "2.1.0",
+  "description": "PALYING ACCOUNT",
+  "main": "carlo.js",
+  "scripts": {
+    "start": "node carlo.js"
+  },
+  "dependencies": {
+    "discord.js": "12.5.3",
+    "express": "^4.17.1",
+    "ytdl-core": "^0.29.0"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
